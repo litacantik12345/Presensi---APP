@@ -1,0 +1,103 @@
+
+<table border="1">
+
+<tr>
+    <th>ID</th>
+    <th>Waktu</th>
+    <th>NIS</th>
+    <th>Nama</th>
+    <th>Foto</th>
+</tr>
+
+
+<tr>
+    <td>134</td>
+    <td>2026-10-06 10:12:38</td>
+    <td>1359</td>
+    <td>lita cantik</td>
+    <td>test</td>
+</tr>
+
+
+<tr>
+    <td>133</td>
+    <td>2026-10-06 09:27:21</td>
+    <td>1223</td>
+    <td>naila</td>
+    <td>test</td>
+</tr>
+
+
+<tr>
+    <td>132</td>
+    <td>2026-10-06 09:25:16</td>
+    <td>555</td>
+    <td>rafa</td>
+    <td>test</td>
+</tr>
+
+
+<tr>
+    <td>131</td>
+    <td>2026-10-06 09:21:43</td>
+    <td>3333</td>
+    <td>nesa</td>
+    <td>test</td>
+</tr>
+
+
+<tr>
+    <td>130</td>
+    <td>2026-10-06 08:31:06</td>
+    <td>12345</td>
+    <td>Kinanthi</td>
+    <td>test</td>
+</tr>
+
+
+<tr>
+    <td>128</td>
+    <td>2026-10-06 08:20:09</td>
+    <td>14672</td>
+    <td>Marlita</td>
+    <td>test</td>
+</tr>
+
+
+<tr>
+    <td>127</td>
+    <td>2026-10-06 07:53:45</td>
+    <td>111</td>
+    <td>nisa</td>
+    <td>test</td>
+</tr>
+
+
+<tr>
+    <td>125</td>
+    <td>2026-10-06 07:50:39</td>
+    <td>12356</td>
+    <td>Marlitak</td>
+    <td>test</td>
+</tr>
+
+
+<tr>
+    <td>124</td>
+    <td>2026-10-06 07:44:09</td>
+    <td>123</td>
+    <td>kaila</td>
+    <td>test</td>
+</tr>
+
+
+<tr>
+    <td>122</td>
+    <td>2026-10-06 07:37:14</td>
+    <td>12345</td>
+    <td>lita</td>
+    <td>test</td>
+</tr>
+
+
+</table>
